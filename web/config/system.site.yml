@@ -1,0 +1,14 @@
+uuid: 1f67275d-9f20-4f99-8852-f06ddbe0e3f4
+name: Drupal - Smiltenes majas lapas demo projekts
+mail: 12arturb34@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
