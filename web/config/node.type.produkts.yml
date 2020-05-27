@@ -1,0 +1,18 @@
+uuid: c8eef4e0-784f-496d-b725-b5151e5f7730
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Produkts
+type: produkts
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
